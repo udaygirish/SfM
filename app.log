@@ -1,0 +1,148 @@
+2024-02-23 21:47:02 - INFO - Optimized Fundamental Matrix: [[-9.48993790e-07 -4.11065352e-06  9.12165097e-03]
+ [ 7.08040534e-06  4.11444625e-06 -3.39208001e-02]
+ [-1.03567194e-02  3.18022209e-02  1.00000000e+00]]
+2024-02-23 21:47:02 - INFO - CV2 Fundamental Matrix: [[-9.93528193e-07 -2.99653297e-06  9.00113944e-03]
+ [ 5.99203890e-06  4.16165925e-06 -3.39620973e-02]
+ [-1.02094202e-02  3.18298213e-02  1.00000000e+00]]
+2024-02-23 21:47:02 - INFO - Epipolar Matrix: [[-0.01763452 -0.06498401  0.23959598]
+ [ 0.12434454  0.05938421 -0.96000303]
+ [-0.26276605  0.96278397  0.03830185]]
+2024-02-23 21:47:50 - INFO - Reprojection Error Image 1 Linear: 448.6258419312018
+2024-02-23 21:47:50 - INFO - Reprojection Error Image 2 Linear: 3.0312319672687447
+2024-02-23 21:47:50 - INFO - Reprojection Error Image 1 Non Linear: 447.4232541169652
+2024-02-23 21:47:50 - INFO - Reprojection Error Image 2 Non Linear: 2.7806548335004173
+2024-02-23 21:47:58 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:3: 3598.1495176992257
+2024-02-23 21:47:58 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:3: 5894.681268978998
+2024-02-23 21:47:58 - INFO - Reprojection Error Image Temp Linear - Img ID: 3: 410.3274626933146
+2024-02-23 21:48:00 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 3: 331.458056472856
+2024-02-23 21:49:30 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:4: 1756.3556408711056
+2024-02-23 21:49:30 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:4: 4073.1619619917174
+2024-02-23 21:49:30 - INFO - Reprojection Error Image Temp Linear - Img ID: 4: 187.31810517949026
+2024-02-23 21:49:36 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 4: 181.743164352251
+2024-02-23 22:01:03 - INFO - Optimized Fundamental Matrix: [[-1.94018090e-07 -2.33589565e-05  1.08272958e-02]
+ [ 2.61270003e-05  3.50898329e-06 -3.24791536e-02]
+ [-1.25072188e-02  3.03856581e-02  1.00000000e+00]]
+2024-02-23 22:01:03 - INFO - CV2 Fundamental Matrix: [[-2.25344739e-07 -2.22487412e-05  1.05512114e-02]
+ [ 2.50581504e-05  3.57482813e-06 -3.23629840e-02]
+ [-1.22080310e-02  3.02334045e-02  1.00000000e+00]]
+2024-02-23 22:01:03 - INFO - Epipolar Matrix: [[-0.00130634 -0.48360925  0.12963634]
+ [ 0.54979533  0.06032383 -0.81817956]
+ [-0.17925689  0.86062558  0.03425978]]
+2024-02-23 22:02:06 - INFO - Optimized Fundamental Matrix: [[-4.69195876e-07 -2.31275988e-05  1.28316107e-02]
+ [ 2.58169774e-05  3.41822687e-06 -3.50211227e-02]
+ [-1.44080051e-02  3.31671275e-02  1.00000000e+00]]
+2024-02-23 22:02:06 - INFO - CV2 Fundamental Matrix: [[-5.02896775e-07 -2.14151424e-05  1.24487081e-02]
+ [ 2.41299693e-05  3.47195861e-06 -3.48173978e-02]
+ [-1.40020874e-02  3.29472759e-02  1.00000000e+00]]
+2024-02-23 22:02:06 - INFO - Epipolar Matrix: [[-0.00919052 -0.43225018  0.19038697]
+ [ 0.49342311  0.05857445 -0.84064264]
+ [-0.23360736  0.87617028  0.03168562]]
+2024-02-23 22:03:23 - INFO - Optimized Fundamental Matrix: [[-3.76141924e-07 -2.88693433e-05  1.41107197e-02]
+ [ 3.15297514e-05  3.14304955e-06 -3.54614308e-02]
+ [-1.57663437e-02  3.36735463e-02  1.00000000e+00]]
+2024-02-23 22:03:23 - INFO - CV2 Fundamental Matrix: [[-3.89491555e-07 -2.71708802e-05  1.36209693e-02]
+ [ 2.98451137e-05  3.21466546e-06 -3.50733046e-02]
+ [-1.52601859e-02  3.32554156e-02  1.00000000e+00]]
+2024-02-23 22:03:23 - INFO - Epipolar Matrix: [[-0.00563261 -0.54490533  0.17259871]
+ [ 0.59931129  0.05395248 -0.77260829]
+ [-0.21834314  0.81596997  0.02769409]]
+2024-02-23 22:13:01 - INFO - Reprojection Error Image 1 Linear: 483.43016441983207
+2024-02-23 22:13:01 - INFO - Reprojection Error Image 2 Linear: 2.316486616514465
+2024-02-23 22:13:01 - INFO - Reprojection Error Image 1 Non Linear: 482.24417434461606
+2024-02-23 22:13:01 - INFO - Reprojection Error Image 2 Non Linear: 2.138631156690012
+2024-02-23 22:13:08 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:3: 6705.109153680106
+2024-02-23 22:13:08 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:3: 9302.854693507003
+2024-02-23 22:13:08 - INFO - Reprojection Error Image Temp Linear - Img ID: 3: 388.5936044946057
+2024-02-23 22:13:13 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 3: 384.1182846427971
+2024-02-23 22:15:46 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:4: 3144.19532302251
+2024-02-23 22:15:46 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:4: 5235.175612474272
+2024-02-23 22:15:46 - INFO - Reprojection Error Image Temp Linear - Img ID: 4: 190.70918369802
+2024-02-23 22:15:48 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 4: 196.2832124904699
+2024-02-23 22:29:19 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:5: 11278.17581390152
+2024-02-23 22:29:19 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:5: 14151.650801694437
+2024-02-23 22:29:19 - INFO - Reprojection Error Image Temp Linear - Img ID: 5: 1326.0684173196903
+2024-02-23 22:29:22 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 5: 1089.3595447805915
+2024-02-23 22:50:40 - INFO - Reprojection Error Image 1 Linear: 473.0342213911945
+2024-02-23 22:50:40 - INFO - Reprojection Error Image 2 Linear: 1.9712279690487071
+2024-02-23 22:50:40 - INFO - Reprojection Error Image 1 Non Linear: 472.0039078398888
+2024-02-23 22:50:40 - INFO - Reprojection Error Image 2 Non Linear: 1.8137327840919866
+2024-02-23 22:51:57 - INFO - Reprojection Error Image 1 Linear: 514.6658698936138
+2024-02-23 22:51:57 - INFO - Reprojection Error Image 2 Linear: 9.997886924817957
+2024-02-23 22:51:57 - INFO - Reprojection Error Image 1 Non Linear: 513.192116363892
+2024-02-23 22:51:57 - INFO - Reprojection Error Image 2 Non Linear: 9.431979802881479
+2024-02-23 22:52:05 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:3: 3849.796995273166
+2024-02-23 22:52:05 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:3: 8233.57941041102
+2024-02-23 22:52:05 - INFO - Reprojection Error Image Temp Linear - Img ID: 3: 359.37425982885196
+2024-02-23 22:52:09 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 3: 379.56705456003164
+2024-02-23 22:52:17 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:4: 2385.5824680924015
+2024-02-23 22:52:17 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:4: 6154.81543957839
+2024-02-23 22:52:17 - INFO - Reprojection Error Image Temp Linear - Img ID: 4: 176.71171300872751
+2024-02-23 22:52:23 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 4: 171.02362647891871
+2024-02-23 22:52:29 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:5: 13246.289890919925
+2024-02-23 22:52:29 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:5: 25399.08484468588
+2024-02-23 22:52:29 - INFO - Reprojection Error Image Temp Linear - Img ID: 5: 1217.7395236549714
+2024-02-23 22:52:30 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 5: 818.1665530121928
+2024-02-23 23:00:17 - INFO - Reprojection Error Image 1 Linear: 473.74498727265643
+2024-02-23 23:00:17 - INFO - Reprojection Error Image 2 Linear: 2.3223771329135445
+2024-02-23 23:00:17 - INFO - Reprojection Error Image 1 Non Linear: 472.6444365766734
+2024-02-23 23:00:17 - INFO - Reprojection Error Image 2 Non Linear: 2.1366069837740844
+2024-02-23 23:00:25 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:3: 9391.585078075595
+2024-02-23 23:00:25 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:3: 9783.495732410873
+2024-02-23 23:00:25 - INFO - Reprojection Error Image Temp Linear - Img ID: 3: 576.9835260372247
+2024-02-23 23:00:30 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 3: 561.7343957698137
+2024-02-23 23:02:23 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:4: 8277.627687389966
+2024-02-23 23:02:24 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:4: 13247.34153551054
+2024-02-23 23:02:24 - INFO - Reprojection Error Image Temp Linear - Img ID: 4: 211.24574836070272
+2024-02-23 23:02:31 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 4: 205.26406311394484
+2024-02-23 23:14:22 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:5: 11275.03472195424
+2024-02-23 23:14:23 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:5: 16052.895801097255
+2024-02-23 23:14:23 - INFO - Reprojection Error Image Temp Linear - Img ID: 5: 1231.2278299956997
+2024-02-23 23:14:25 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 5: 1148.7825332254522
+2024-02-23 23:22:17 - INFO - Reprojection Error Image 1 Linear: 497.47844716256054
+2024-02-23 23:22:17 - INFO - Reprojection Error Image 2 Linear: 6.9951846040779655
+2024-02-23 23:22:17 - INFO - Reprojection Error Image 1 Non Linear: 496.0457946495586
+2024-02-23 23:22:17 - INFO - Reprojection Error Image 2 Non Linear: 6.541824173834508
+2024-02-23 23:22:24 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:3: 3699.184908606318
+2024-02-23 23:22:24 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:3: 7911.667719459781
+2024-02-23 23:22:24 - INFO - Reprojection Error Image Temp Linear - Img ID: 3: 334.23811284428535
+2024-02-23 23:22:29 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 3: 357.6449134285864
+2024-02-23 23:25:01 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:4: 2201.757209602059
+2024-02-23 23:25:01 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:4: 5627.73083221354
+2024-02-23 23:25:01 - INFO - Reprojection Error Image Temp Linear - Img ID: 4: 184.4286723449935
+2024-02-23 23:25:03 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 4: 188.47688414670588
+2024-02-23 23:32:10 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:5: 64285.00293136428
+2024-02-23 23:32:10 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:5: 23328.175797305998
+2024-02-23 23:32:10 - INFO - Reprojection Error Image Temp Linear - Img ID: 5: 1115.3866802028383
+2024-02-23 23:32:13 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 5: 1278.982618346524
+2024-02-23 23:45:37 - INFO - Reprojection Error Image 1 Linear: 472.943257801264
+2024-02-23 23:45:37 - INFO - Reprojection Error Image 2 Linear: 2.3634027172909775
+2024-02-23 23:45:37 - INFO - Reprojection Error Image 1 Non Linear: 471.8835385779512
+2024-02-23 23:45:37 - INFO - Reprojection Error Image 2 Non Linear: 2.1745151655514126
+2024-02-23 23:45:44 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:3: 8672.694052331915
+2024-02-23 23:45:45 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:3: 5301.774225973951
+2024-02-23 23:45:45 - INFO - Reprojection Error Image Temp Linear - Img ID: 3: 402.5816705655095
+2024-02-23 23:45:50 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 3: 427.55114433430964
+2024-02-23 23:46:22 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:4: 2607.938694795915
+2024-02-23 23:46:22 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:4: 4382.692632476613
+2024-02-23 23:46:22 - INFO - Reprojection Error Image Temp Linear - Img ID: 4: 202.08998740372374
+2024-02-23 23:46:28 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 4: 204.26141765447687
+2024-02-23 23:47:09 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:5: 11706.067379902213
+2024-02-23 23:47:09 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:5: 16767.81724694559
+2024-02-23 23:47:09 - INFO - Reprojection Error Image Temp Linear - Img ID: 5: 1225.134160884812
+2024-02-23 23:47:11 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 5: 1184.7137615503043
+2024-02-23 23:49:00 - INFO - Reprojection Error Image 1 Linear: 505.40223653424255
+2024-02-23 23:49:00 - INFO - Reprojection Error Image 2 Linear: 8.038026208843329
+2024-02-23 23:49:00 - INFO - Reprojection Error Image 1 Non Linear: 503.62132333032133
+2024-02-23 23:49:00 - INFO - Reprojection Error Image 2 Non Linear: 7.513539555787435
+2024-02-23 23:49:07 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:3: 4977.886933206525
+2024-02-23 23:49:07 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:3: 10236.968429503377
+2024-02-23 23:49:07 - INFO - Reprojection Error Image Temp Linear - Img ID: 3: 450.4513503486003
+2024-02-23 23:49:12 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 3: 453.03849951650795
+2024-02-23 23:49:49 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:4: 2651.491213022107
+2024-02-23 23:49:49 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:4: 5979.460100914288
+2024-02-23 23:49:49 - INFO - Reprojection Error Image Temp Linear - Img ID: 4: 198.00008702005678
+2024-02-23 23:49:51 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 4: 199.45401961729044
+2024-02-23 23:50:24 - INFO - Reprojection Error Image 1 - RANSAC PNP - Img ID:5: 14662.343737982594
+2024-02-23 23:50:24 - INFO - Reprojection Error Image 1 - Non Linear PNP - Img ID:5: 22423.56685810719
+2024-02-23 23:50:24 - INFO - Reprojection Error Image Temp Linear - Img ID: 5: 1019.424134636434
+2024-02-23 23:50:27 - INFO - Reprojection Error Image Temp Non Linear - Img ID: 5: 1295.3913137892403
